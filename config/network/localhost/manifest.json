@@ -1,13 +1,13 @@
 {
-    "year": "2377",
+    "year": "1966",
     "serverAddress": "localhost",
-    "serverName": "Node Y56 Intranet",
-    "iconName": "Moon-icon.png",
+    "serverName": "Serial Crimes Unit Intranet",
+    "iconName": "scu.png",
     "terminalID": "Y56",
     "defaultUser": {
         "userId": "user",
         "password": "",
-        "userName": "anonymous"
+        "userName": "newuser"
     },
     "randomSeed": true,
     
